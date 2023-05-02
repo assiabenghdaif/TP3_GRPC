@@ -52,7 +52,10 @@ Pour le cas d'une conversion de monnaie
         . BRAVO vous avez gagné et envoyer le gagnant aux clients
         . Jeu terminé, le gagnant est ""Numéro du gagnant"
         
- 
+Server :===>
+![image](https://user-images.githubusercontent.com/99361390/235741325-9b5a3bdc-21e5-4ae7-ba35-cb3e53fe0055.png)
+
+
 Client 1:===>
 ![image](https://user-images.githubusercontent.com/99361390/235740479-b2b9dbc7-c46a-4ac0-a041-73d4f7601a37.png)
 
